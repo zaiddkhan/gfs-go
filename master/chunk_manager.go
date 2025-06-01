@@ -8,7 +8,6 @@ import (
 	"sync"
 	"time"
 
-	"golang.org/x/tools/go/analysis/passes/defers"
 )
 
 
